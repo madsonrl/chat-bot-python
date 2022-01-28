@@ -1,0 +1,190 @@
+
+
+
+Diretor: Prof. Dr. Jorge Yoshio Kanda
+
+Coordenador Acadêmico: Prof. Dr. Geone Maia Correa
+
+Coordenadora Administrativa: Técnica em Contabilidade, Bel. e Lic. Kátia Rejane da Silva Rufino
+
+
+'Qual é o diretor','O Diretor do ICET é o Prof. Dr. Jorge Yoshio Kanda'
+'Qual o Coordenador Acadêmico','O Coordenador Acadêmicodo ICET é o Prof. Dr. Geone Maia Correa'
+'Qual é a Coordenadora Administrativa','A Coordenadora Administrativa é a Técnica em Contabilidade, Bel. e Lic. Kátia Rejane da Silva Rufino'
+
+----------------------------//
+
+Agronomia
+
+Coordenador: Gerlândio Suassuna Gonçalves
+Vice-coordenador: Arthur Antunes de Souza Cardoso
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+'Qual o coordenador do curso de Agronomia?','O coordenador de Agronomia é o Gerlândio Suassuna Gonçalves'
+'Qual o Vice-coordenador do curso de Agronomia?','O Vice-coordenador de Agronomia é o Arthur Antunes de Souza Cardoso'
+'Qual a duração do curso de agronomia?','O curso de agronomia dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+-----------------------------//
+
+Engenharia de Software
+
+Coordenador: Carlos Alberto da Costa Barata
+Vice-coordenador:  Daniella de Oliveira Costa
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+7,5 anos (15 semestres)
+
+
+'Qual o coordenador do curso de Engenharia de Software?','O coordenador de Engenharia de Software é o Carlos Alberto da Costa Barata'
+'Qual o Vice-coordenador do curso de Engenharia de Software?','O Vice-coordenador de Engenharia de Software é o Daniella de Oliveira Costa'
+'Qual a duração do curso de Engenharia de Software?','O curso de Engenharia de Software dura no mínimo 5 anos (10 semestres) e no maxímo 7,5 anos (15 semestres)'
+
+------------------------------//
+
+Engenharia de Produção
+
+Coordenadora:  Rute Holanda Lopes
+Vice-coordenadora:
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+
+'Qual o coordenador do curso de Engenharia de Produção?','O coordenador de Engenharia de Produção é o Rute Holanda Lopes'
+'Qual o Vice-coordenador do curso de Engenharia de Produção?','Desculpe mas eu não sei quem é o Vice-coordenador de Engenharia de Produção'
+'Qual a duração do curso de Engenharia de Produção?','O curso de Engenharia de Produção dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+------------------------------//
+
+Engenharia Sanitária
+
+Coordenadora: Suéllenn dos Santos Hinnah
+Vice-coordenador: Ricardo Takashi Kuwano
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+
+'Qual o coordenador do curso de Engenharia Sanitária?','O coordenador de Engenharia Sanitária é o Suéllenn dos Santos Hinnah'
+'Qual o Vice-coordenador do curso de Engenharia Sanitária?','O Vice-coordenador de Engenharia Sanitária é o Ricardo Takashi Kuwano'
+'Qual a duração do curso de Engenharia Sanitária?','O curso de Engenharia Sanitária dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+
+------------------------------//
+
+Farmácia
+
+Coordenador: Aluízio Gonçalves Brasil Jr.
+Vice-coordenador: Paulo Maximiliano Corrêa
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+'Qual o coordenador do curso de Farmácia?','O coordenador de Farmácia é o Aluízio Gonçalves Brasil Jr.'
+'Qual o Vice-coordenador do curso de Farmácia?','O Vice-coordenador de Farmácia é o Paulo Maximiliano Corrêa'
+'Qual a duração do curso de Farmácia?','O curso de Farmácia dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+--------------------------------//
+
+Química Industrial
+
+Coordenador: Margarida Carmo de Souza
+Vice-coordenador: Hidelbrando Ferreira Rodrigues
+
+PRAZO MÍNIMO INT. CURRICULAR
+4 anos (8 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+8 anos (16 semestres)
+
+'Qual o coordenador do curso de Química Industrial?','O coordenador de Química Industrial é a Margarida Carmo de Souza'
+'Qual o Vice-coordenador do curso de Química Industrial?','O Vice-coordenador de Química Industrial é o Hidelbrando Ferreira Rodrigues'
+'Qual a duração do curso de Química Industrial?','O curso de Química Industrial dura no mínimo 4 anos (8 semestres) e no maxímo 8 anos (16 semestres)'
+
+---------------------------------//
+
+Sistemas de Informação
+
+Coordenadora: Odette Mestrinho Passos
+Vice-coordenadora: Anacília Maria Cavalcante de Almeida Palmeira Vieira
+
+
+PRAZO MÍN. INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁX. INT. CURRICULAR
+10 anos (20 semestres)
+
+
+'Qual o coordenador do curso de Sistemas de Informação?','O coordenador de Sistemas de Informação é a Odette Mestrinho Passos'
+'Qual o Vice-coordenador do curso de Sistemas de Informação?','O Vice-coordenador de Sistemas de Informação é a Anacília Maria Cavalcante de Almeida Palmeira Vieira'
+'Qual a duração do curso de Sistemas de Informação?','O curso de Sistemas de Informação dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+---------------------------------//
+
+
+Licenciatura em Ciências: Química e Biologia
+
+
+Coordenador: Dominique Fernandes de Moura do Carmo
+Vice-coordenador: Paulo José de Sousa Maia
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+
+'Qual o coordenador do curso de Química e Biologia?','O coordenador de Química e Biologia é o Dominique Fernandes de Moura do Carmo'
+'Qual o Vice-coordenador do curso de Química e Biologia?','O Vice-coordenador de Química e Biologia é o Paulo José de Sousa Maia'
+'Qual a duração do curso de Química e Biologia?','O curso de Química e Biologia dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+----------------------------------//
+
+
+Licenciatura em Ciências: Matemática e Física
+
+Coordenador: Marco Aurélio dos Santos Cruz
+Vice-coordenador: Sandro Simas de Jesus
+
+PRAZO MÍNIMO INT. CURRICULAR
+5 anos (10 semestres)
+
+PRAZO MÁXIMO INT. CURRICULAR
+10 anos (20 semestres)
+
+
+'Qual o coordenador do curso de Matemática e Física?','O coordenador de Matemática e Física é o Marco Aurélio dos Santos Cruz'
+'Qual o Vice-coordenador do curso de Matemática e Física?','O Vice-coordenador de Matemática e Física é o Sandro Simas de Jesus'
+'Qual a duração do curso de Matemática e Física?','O curso de Matemática e Física dura no mínimo 5 anos (10 semestres) e no maxímo 10 anos (20 semestres)'
+
+----------------------------------//
+
+
+'Quais os Cursos que o icet oferece?','Os cursos ofertados pelo icet são: Agronomia, Engenharia de Software, Engenharia de Produção, Engenharia Sanitária, Farmácia, Química Industrial, Sistemas de Informação, Licenciatura em Ciências: Química e Biologia e Licenciatura em Ciências: Matemática e Física'
+
+'onde fica a biblioteca?','Fica no bloco F'
+
+'Onde fica as salas dos professores?','Fica no bloco F'
+
+'Quantos predios o icet possui?','Possui 6 predios'
+
+'Em qual bloco fica o auditorio?','O auditorio fica no bloca A'
